@@ -1,5 +1,5 @@
-import CadastroMovimentacoes from '../components/cadastroMovimentacao';
+import CadastroMovimentacoes from '../components/cadastroMovimentacao'
 
 export default function MovimentacoesPage() {
-  return <CadastroMovimentacoes />;
+  return <CadastroMovimentacoes />
 }

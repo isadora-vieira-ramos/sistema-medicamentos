@@ -1,5 +1,5 @@
-import CadastroProfissional from '../components/cadastroProfissional';
+import CadastroProfissional from '../components/cadastroProfissional'
 
 export default function ProfissionaisPage() {
-  return <CadastroProfissional />;
+  return <CadastroProfissional />
 }
